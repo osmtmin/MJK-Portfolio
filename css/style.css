@@ -462,6 +462,7 @@ a.active {
 	font-size:16px;
 	font-weight:300;
 	padding-top:100px;
+    color: #8a6d3b;
 }
 
 .h-1{
@@ -470,9 +471,13 @@ a.active {
 	color:#8a6d3b;
 	letter-spacing:5%;
 }
+.h-2{
+	color:#8a6d3b;
+}
 .h-3{
 	font-weight:600;
     padding-bottom: 60px;
+    color: #8a6d3b;
 }
 
 
