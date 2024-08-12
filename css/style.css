@@ -313,6 +313,7 @@ a.active {
 		height: 100vh;
 		
 } */
+
 @media only screen and (min-width:1200px) {
 	
 
@@ -851,8 +852,6 @@ a.active {
     text-align: center;
 }
 
-
-
 .portfolio-padding {
     padding: 50px 0;
 }
@@ -1128,10 +1127,11 @@ fieldset {
     display:inline-block;
 	padding: 3px 12px;
 	border-radius:30px;
-	color:#c4b28e;
+	color:#8a6d3b;
     margin-bottom: 10px;
     font-size: 13px;
     background-color: #eee;
+    font-weight: bold;
 }
 .project_btn:hover{
     color:#fff;
