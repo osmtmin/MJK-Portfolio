@@ -585,7 +585,7 @@ a.active {
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
     background-color: #7e715c;
-    outline: 10px solid #f5f3f1;
+    outline: 10px solid #e6e1cb;
     display: block;
     margin: 0.5em 0.5em 0.5em -0.5em;
     position: absolute;
