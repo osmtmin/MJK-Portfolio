@@ -681,8 +681,8 @@ a.active {
 }
 .skill-box > .skills-circle > ul > li > span.bar-circle-cover {
   display: block;
-  width: 95%;
-  height: 95%;/*bar 굵기 두껍게 하고싶으면 여기 width랑 height랑 %줄이면됨*/
+  width: 93%;
+  height: 93%;/*bar 굵기 두껍게 하고싶으면 여기 width랑 height랑 %줄이면됨*/
   border-radius: 50%;
   background-color: #fff;/*bar안에 동그라미 color*/
   z-index: 0;
