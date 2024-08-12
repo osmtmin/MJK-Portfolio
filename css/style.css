@@ -52,6 +52,7 @@ font-family: 'Open Sans', sans-serif;
 
 .container{
     text-align: left;
+    overflow: hidden;
 }
 h1 {
     font-family: 'NEXON Lv1 Gothic OTF';
