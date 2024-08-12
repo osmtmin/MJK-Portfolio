@@ -89,6 +89,7 @@ body {
     font-family: 'NEXON Lv1 Gothic OTF';
     font-size: 14px;
     line-height: 24px;
+    overflow: hidden;
 }
 
 .size-50 {
